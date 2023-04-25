@@ -1,0 +1,295 @@
+{"games": [
+  {
+    "id": 1000,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "publisher": "Nintendo",
+    "image": "/covers/1000.jpg",
+    "date": "2017-03-03",
+    "price": 60,
+    "rating": 5,
+    "platform": [
+      "Nintendo Switch",
+      "Wii U"
+    ],
+    "genre": [
+      "Action-adventure",
+      "RPG"
+    ]
+  },
+  {
+    "id": 1001,
+    "title": "Red Dead Redemption 2",
+    "publisher": "Rockstar Games",
+    "image": "/covers/1001.jpg",
+    "date": "2018-10-26",
+    "price": 60,
+    "rating": 5,
+    "platform": [
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows"
+    ],
+    "genre": [
+      "Action-adventure",
+      "RPG"
+    ]
+  },
+  {
+    "id": 1002,
+    "title": "Super Mario Odyssey",
+    "publisher": "Nintendo",
+    "image": "/covers/1002.jpg",
+    "date": "2017-10-27",
+    "price": 60,
+    "rating": 5,
+    "platform": [
+      "Nintendo Switch"
+    ],
+    "genre": [
+      "Action-adventure",
+      "Platformer"
+    ]
+  },
+  {
+    "id": 1003,
+    "title": "God of War",
+    "publisher": "Sony Interactive Entertainment",
+    "image": "/covers/1003.jpg",
+    "date": "2018-04-20",
+    "price": 60,
+    "rating": 5,
+    "platform": [
+      "PlayStation 4"
+    ],
+    "genre": [
+      "Action-adventure",
+      "Hack and slash"
+    ]
+  },
+  {
+    "id": 1004,
+    "title": "Halo 5: Guardians",
+    "publisher": "Xbox Game Studios",
+    "image": "/covers/1004.jpg",
+    "date": "2015-10-27",
+    "price": 60,
+    "rating": 4,
+    "platform": [
+      "Xbox One",
+      "Microsoft Windows"
+    ],
+    "genre": [
+      "First-person shooter"
+    ]
+  },
+  {
+    "id": 1005,
+    "title": "Call of Duty: Black Ops Cold War",
+    "publisher": "Activision",
+    "image": "/covers/1005.jpg",
+    "date": "2020-11-13",
+    "price": 60,
+    "rating": 3,
+    "platform": [
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X/S",
+      "Xbox One",
+      "Microsoft Windows"
+    ],
+    "genre": [
+      "First-person shooter"
+    ]
+  },
+  {
+    "id": 1006,
+    "title": "Minecraft",
+    "publisher": "Microsoft Studios",
+    "image": "/covers/1006.jpg",
+    "date": "2011-11-18",
+    "price": 26.95,
+    "rating": 4,
+    "platform": [
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows",
+      "Android",
+      "iOS"
+    ],
+    "genre": [
+      "Sandbox",
+      "Survival"
+    ]
+  },
+  {
+    "id": 1007,
+    "title": "Grand Theft Auto V",
+    "publisher": "Rockstar Games",
+    "image": "/covers/1007.jpg",
+    "date": "2013-09-17",
+    "price": 59.99,
+    "rating": 5,
+    "platform": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "Xbox 360",
+      "Xbox One",
+      "Microsoft Windows"
+    ],
+    "genre": [
+      "Action-adventure",
+      "Open world"
+    ]
+  },
+  {
+    "id": 1008,
+    "title": "Overwatch",
+    "publisher": "Blizzard Entertainment",
+    "image": "/covers/1008.jpg",
+    "date": "2016-05-24",
+    "price": 39.99,
+    "rating": 4,
+    "platform": [
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows"
+    ],
+    "genre": [
+      "First-person shooter",
+      "Multiplayer"
+    ]
+  },
+  {
+    "id": 1009,
+    "title": "Destiny 2",
+    "publisher": "Bungie",
+    "image": "/covers/1009.jpg",
+    "date": "2017-09-06",
+    "price": 59.99,
+    "rating": 4,
+    "platform": [
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows"
+    ],
+    "genre": [
+      "Action-adventure",
+      "First-person shooter",
+      "RPG"
+    ]
+  },
+  {
+    "id": 1010,
+    "title": "The Witcher 3: Wild Hunt",
+    "publisher": "CD Projekt",
+    "image": "/covers/1010.jpg",
+    "date": "2015-05-19",
+    "price": 49.99,
+    "rating": 5,
+    "platform": [
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows"
+    ],
+    "genre": [
+      "Action-adventure",
+      "RPG"
+    ]
+  },
+  {
+    "id": 1011,
+    "title": "Spider-Man: Miles Morales",
+    "publisher": "Sony Interactive Entertainment",
+    "image": "/covers/1011.jpg",
+    "date": "2020-11-12",
+    "price": 49.99,
+    "rating": 4,
+    "platform": [
+      "PlayStation 5",
+      "PlayStation 4"
+    ],
+    "genre": [
+      "Action-adventure",
+      "Superhero"
+    ]
+  },
+  {
+    "id": 1012,
+    "title": "FIFA 21",
+    "publisher": "Electronic Arts",
+    "image": "/covers/1012.jpg",
+    "date": "2020-10-09",
+    "price": 59.99,
+    "rating": 2,
+    "platform": [
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows",
+      "Nintendo Switch"
+    ],
+    "genre": [
+      "Sports",
+      "Soccer"
+    ]
+  },
+  {
+    "id": 1013,
+    "title": "Madden NFL 21",
+    "publisher": "Electronic Arts",
+    "image": "/covers/1013.jpg",
+    "date": "2020-08-28",
+    "price": 59.99,
+    "rating": 1,
+    "platform": [
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows",
+      "Nintendo Switch"
+    ],
+    "genre": [
+      "Sports",
+      "American football"
+    ]
+  },
+  {
+    "id": 1014,
+    "title": "Fortnite",
+    "publisher": "Epic Games",
+    "image": "/covers/1014.jpg",
+    "date": "2017-07-25",
+    "price": 0,
+    "rating": 4,
+    "platform": [
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows",
+      "Android",
+      "iOS"
+    ],
+    "genre": [
+      "Action-adventure",
+      "Survival",
+      "Battle royale"
+    ]
+  },
+  {
+    "id": 1015,
+    "title": "Dark Souls III",
+    "publisher": "Bandai Namco Entertainment",
+    "image": "/covers/1015.jpg",
+    "date": "2016-03-24",
+    "price": 59.99,
+    "rating": 4,
+    "platform": [
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows"
+    ],
+    "genre": [
+      "Action RPG",
+      "Dark fantasy"
+    ]
+  }
+]}
